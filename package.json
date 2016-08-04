@@ -1,0 +1,21 @@
+{
+  "name": "ITM",
+  "description": "landing page ITM",
+  "version": "0.0.1",
+  "author": {
+    "name": "Lucas Llano",
+    "email": "lucasllano13@gmail.com"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "latest",
+    "nodemailer": "0.7"
+  },
+  "keywords": [
+    "construction"
+  ]
+}
